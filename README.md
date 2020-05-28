@@ -3,3 +3,7 @@
 1. Tashu
 - Public bicycle data (Rental station, Rental date, Retrun station, Return date, Travel distance, Member Classification)
 - Public weather data (Temperatures, Precipitation)
+
+
+2. Fitness Tracker
+- 
